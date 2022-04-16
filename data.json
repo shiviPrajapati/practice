@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Max",
+        "salary": "2.3M",
+        "age": 23,
+        "address": {
+            "coordinates": {
+                "lat": "56.13 N",
+                "lng": "106.34 W"
+            }
+        }
+    },
+    {
+        "name": "Logan",
+        "salary": "4.3M",
+        "age": 22,
+        "address": {
+            "coordinates": {
+                "lat": "61.52 N",
+                "lng": "105.31 E"
+            }
+        }
+    },
+    {
+        "name": "Blastoise",
+        "salary": "1.3M",
+        "age": 34,
+        "address": {
+            "coordinates": {
+                "lat": "36.20 N",
+                "lng": "138.25 E"
+            }
+        }
+    },
+
+    {
+        "name": "Pikachu",
+        "salary": "5.3M",
+        "age": 34,
+        "address": {
+            "coordinates": {
+                "lat": "04.21 N",
+                "lng": "101.97 E"
+            }
+        }
+    },
+    {
+        "name": "Zebra",
+        "salary": "5.3M",
+        "age": 12,
+        "address": {
+            "coordinates": {
+                "lat": "04.21 N",
+                "lng": "101.97 E"
+            }
+        }
+    }
+]
